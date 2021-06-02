@@ -22,4 +22,4 @@ echo "session required pam_mkhomedir.so skel=/etc/skel/ umask=0022" | sudo tee -
 
 echo "5. It's all done, sign out and try to login to make sure it works."
 fi
-done
+exit
