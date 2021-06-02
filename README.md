@@ -9,6 +9,7 @@ Steps to use it:
 1. GIT Clone repository into target endpoint:
 
 $ sudo apt-get install git
+
 $ git clone https://github.com/amcamillo/ubuntu21.04-joinadrealm/
    
 2. Make Script Executable
