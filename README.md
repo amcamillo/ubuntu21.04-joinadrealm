@@ -7,12 +7,15 @@ Assumptions:
 
 Steps to use it:
 1. GIT Clone repository into target endpoint:
-   $ sudo apt-get install git
-   $ git clone https://github.com/amcamillo/ubuntu21.04-joinadrealm/
+
+$ sudo apt-get install git
+$ git clone https://github.com/amcamillo/ubuntu21.04-joinadrealm/
    
 2. Make Script Executable
-   $ sudo chmod +x ./joinad_ubuntu21.sh
+
+$ sudo chmod +x ./joinad_ubuntu21.sh
    
 3. Execute script and Follow instructions
-   $ sudo ./joinad_ubuntu21.sh
+
+$ sudo ./joinad_ubuntu21.sh
       
